@@ -67,7 +67,7 @@ Submit the assigned Google Doc with the following information:
  ![[semesterCalendarS2#School Events - Week 3]]
 ![Assessment 1 Overview](https://youtu.be/mkUcSVH3ZUY)
  
- [Assessment Assistance](/_sharedContent/Assessments2024S2/Task1.md)
+ [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
 
 
 
@@ -118,16 +118,36 @@ N/A
 - [ ] [resumeFinalTouches](/WebDev/_shared/Projects/ANH/resumeFinalTouches.md)
 ### Week 7
  ![[semesterCalendarS2#School Events - Week 7]]
+#### Videos
+![https://youtu.be/Uv18cXzvRL0](https://youtu.be/Uv18cXzvRL0)
+
+
+![https://youtu.be/SUDKg1AnQ50](https://youtu.be/SUDKg1AnQ50)
+
+![https://youtu.be/aOz_nH_RWTo](https://youtu.be/aOz_nH_RWTo)
+
+
+
+
 #### Class Tasks
 - [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
 - [ ] [Shopping List Part 1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
+
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
+#### Videos
+
+ ![Introduction](https://youtu.be/7B6QERTeYYU)
+
+  
+  ![Practical](https://youtu.be/0rY4fMPQtwk)
+![Assessment](https://youtu.be/uCfS1UTsFUA)
+  
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
+- [ ] [Assessment 2 Information](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek08.md)
 #### Practical
@@ -135,41 +155,71 @@ N/A
 
 ### Week 9
  ![[semesterCalendarS2#School Events - Week 9]]
+#### Videos
+![Week 9 Introduction](https://youtu.be/15H9SwzX5Qo)
+
+![Week 9 Theory](https://youtu.be/GLGr3GHAL64)
+
+
+![Week 9 Practical](https://youtu.be/phkltX-JcUQ)
+
+
+
+
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
-##### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
+#### Theory
+- [ ] [[_sharedContent/Personas|Personas]]
 #### Practical
 - [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
 ### Week 10
- ![[semesterCalendarS2#School Events - Week 10]]
+ ![[semesterCalendarS2#School Events - Week 10]]  
+
+#### Videos
+
+![Week 10 Assessment](https://youtu.be/QaOL-fNrj3o)
+
+![Week 10 VET](https://youtu.be/Q2w5G7AqeYE)
+
+![Week 10 Code](https://youtu.be/TfZOR-IkAM4)
+
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
-#### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
+#### Theory
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+- [ ] [VET Competency](https://classroom.google.com/c/NjkwOTc0MjQ2OTU4/a/NzA1MzI1MzkyNzAx/details)
 #### Practical
-- [ ] [Shopping List Part 4](/WebDev/_shared/Projects/ANH/shoppingListPart4.md)
+- N/A
 
 ## Term 4
 ### Week 11
  ![[semesterCalendarS2#School Events - Week 11]]
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek11.md)
 #### Practical
 N/A
 
-
-### Week 12 - Assessment Due
+### Week 12
  ![[semesterCalendarS2#School Events - Week 12]]
+
+#### Class Tasks
+ - [ ] [Assessment 2](WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
+#### Theory
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
+#### Practical
+N/A
+
+### Week 13 - Assessment Due
+ ![[semesterCalendarS2#School Events - Week 13]]
 **Assessment Due**  
 The task will be due Friday 11:59pm.  
 Worth 50%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-- [ ] [assessment2Finalisation](/WebDev/2-Digital-Applications/_topics/assessment2Finalisation.md)
+- [ ] [Assessment 2 Information](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md)
  - [ ] Submit Assessment 2
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
@@ -177,15 +227,7 @@ The task will be posted to Google Classroom, as per normal.
 N/A
 
 
-### Week 13
- ![[semesterCalendarS2#School Events - Week 13]]
 
-#### Class Tasks
- - [ ] Vet Competencies
-#### Theory
-- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
-#### Practical
-N/A
 ### Week 14
  ![[semesterCalendarS2#School Events - Week 14]]
 #### Class Tasks
@@ -197,11 +239,10 @@ N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
 **Assessment Week**  
-This assessment task is a **live** interview.  This will be done via Google Meet.
+This assessment task is an **in person** interview. Your specific timeslot will be posted to Google Classroom with the assessment.
 
 You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.  
 Your interview and any documentation you bring to the interview will be assessed.  
-You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
 Worth 25%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
@@ -220,13 +261,19 @@ N/A
 #### Practical
 N/A
 
+### Week 17
+ ![[semesterCalendarS2#School Events - Week 17]]
+### Week 18
+ ![[semesterCalendarS2#School Events - Week 18]]
+
+
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                |
+|                  | [Assessment 2](/WebDev/2-Digital-Applications/2024S2/assessment2-2024S2.md) - 50 % |
+|                  | [Assessment 3](WebDev/2-Digital-Applications/2024S2/assessment3.md) - 25 %         |
 
 
 ![[commonBlocks#Contact Details]]
